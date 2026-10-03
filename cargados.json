@@ -1,0 +1,589 @@
+{
+   "202312": {
+      "ok": true,
+      "archivo": "Base_31122023.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 59128,
+            "mb": 8.05
+         },
+         "Castigo": {
+            "filas": 11520,
+            "mb": 1.57
+         },
+         "Venta": {
+            "filas": 12301,
+            "mb": 1.83
+         }
+      }
+   },
+   "202401": {
+      "ok": true,
+      "archivo": "Base_31012024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 59422,
+            "mb": 8.19
+         },
+         "Castigo": {
+            "filas": 11490,
+            "mb": 1.57
+         },
+         "Venta": {
+            "filas": 12279,
+            "mb": 1.83
+         }
+      }
+   },
+   "202402": {
+      "ok": true,
+      "archivo": "Base_29022024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 58788,
+            "mb": 8.06
+         },
+         "Castigo": {
+            "filas": 12345,
+            "mb": 1.69
+         },
+         "Venta": {
+            "filas": 12279,
+            "mb": 1.83
+         }
+      }
+   },
+   "202403": {
+      "ok": true,
+      "archivo": "Base_31032024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 57741,
+            "mb": 7.97
+         },
+         "Castigo": {
+            "filas": 13517,
+            "mb": 1.84
+         },
+         "Venta": {
+            "filas": 12269,
+            "mb": 1.9
+         }
+      }
+   },
+   "202404": {
+      "ok": true,
+      "archivo": "Base_30042024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 56251,
+            "mb": 7.67
+         },
+         "Castigo": {
+            "filas": 14851,
+            "mb": 2.01
+         },
+         "Venta": {
+            "filas": 12266,
+            "mb": 1.83
+         }
+      }
+   },
+   "202405": {
+      "ok": true,
+      "archivo": "Base_31052024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 56029,
+            "mb": 7.65
+         },
+         "Castigo": {
+            "filas": 14818,
+            "mb": 2.0
+         },
+         "Venta": {
+            "filas": 12301,
+            "mb": 1.83
+         }
+      }
+   },
+   "202406": {
+      "ok": true,
+      "archivo": "Base_30062024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 55777,
+            "mb": 7.68
+         },
+         "Castigo": {
+            "filas": 14783,
+            "mb": 1.99
+         },
+         "Venta": {
+            "filas": 12244,
+            "mb": 1.82
+         }
+      }
+   },
+   "202407": {
+      "ok": true,
+      "archivo": "Base_31072024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 55166,
+            "mb": 7.81
+         },
+         "Castigo": {
+            "filas": 14749,
+            "mb": 2.04
+         },
+         "Venta": {
+            "filas": 12244,
+            "mb": 1.9
+         }
+      }
+   },
+   "202408": {
+      "ok": true,
+      "archivo": "Base_31082024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 54296,
+            "mb": 7.68
+         },
+         "Castigo": {
+            "filas": 15197,
+            "mb": 2.1
+         },
+         "Venta": {
+            "filas": 12301,
+            "mb": 1.83
+         }
+      }
+   },
+   "202409": {
+      "ok": true,
+      "archivo": "Base_30092024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 54041,
+            "mb": 7.67
+         },
+         "Castigo": {
+            "filas": 15155,
+            "mb": 2.1
+         },
+         "Venta": {
+            "filas": 12199,
+            "mb": 1.82
+         }
+      }
+   },
+   "202410": {
+      "ok": true,
+      "archivo": "Base_31102024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 53983,
+            "mb": 7.67
+         },
+         "Castigo": {
+            "filas": 15119,
+            "mb": 2.09
+         },
+         "Venta": {
+            "filas": 12199,
+            "mb": 1.82
+         }
+      }
+   },
+   "202411": {
+      "ok": true,
+      "archivo": "Base_30112024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 52374,
+            "mb": 7.46
+         },
+         "Castigo": {
+            "filas": 16438,
+            "mb": 2.27
+         },
+         "Venta": {
+            "filas": 12165,
+            "mb": 1.81
+         }
+      }
+   },
+   "202412": {
+      "ok": true,
+      "archivo": "Base_31122024.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 49309,
+            "mb": 6.96
+         },
+         "Castigo": {
+            "filas": 18829,
+            "mb": 2.56
+         },
+         "Venta": {
+            "filas": 12155,
+            "mb": 1.81
+         }
+      }
+   },
+   "202501": {
+      "ok": true,
+      "archivo": "Base_31012025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 49002,
+            "mb": 6.92
+         },
+         "Castigo": {
+            "filas": 18790,
+            "mb": 2.55
+         },
+         "Venta": {
+            "error": "Binder Error: Sheet \"Venta\" not found in xlsx file \"/Users/eurrutia/ecus_py/data/bases_cierres/Base_31012025.xlsx\"\nDid you mean: \"Base\"\n\nLINE 3:         FROM read_xlsx('/Users/eurrutia/ecus_py/data/bases_cierres/Base_...\n                     ^"
+         }
+      }
+   },
+   "202502": {
+      "ok": true,
+      "archivo": "Base_28022025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 48819,
+            "mb": 6.97
+         },
+         "Castigo": {
+            "filas": 18731,
+            "mb": 2.54
+         },
+         "Venta": {
+            "filas": 12127,
+            "mb": 1.81
+         }
+      }
+   },
+   "202503": {
+      "ok": true,
+      "archivo": "Base_31032025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 48166,
+            "mb": 6.89
+         },
+         "Castigo": {
+            "filas": 18684,
+            "mb": 2.54
+         },
+         "Venta": {
+            "filas": 12127,
+            "mb": 1.81
+         }
+      }
+   },
+   "202504": {
+      "ok": true,
+      "archivo": "Base_30042025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 47781,
+            "mb": 6.81
+         },
+         "Castigo": {
+            "filas": 18886,
+            "mb": 2.57
+         },
+         "Venta": {
+            "filas": 12110,
+            "mb": 1.81
+         }
+      }
+   },
+   "202505": {
+      "ok": true,
+      "archivo": "Base_31052025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 46421,
+            "mb": 6.66
+         },
+         "Castigo": {
+            "filas": 20028,
+            "mb": 2.73
+         },
+         "Venta": {
+            "filas": 12099,
+            "mb": 1.8
+         }
+      }
+   },
+   "202506": {
+      "ok": true,
+      "archivo": "Base_30062025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 45242,
+            "mb": 6.57
+         },
+         "Castigo": {
+            "filas": 19986,
+            "mb": 2.72
+         },
+         "Venta": {
+            "error": "Binder Error: Sheet \"Venta\" not found in xlsx file \"/Users/eurrutia/ecus_py/data/bases_cierres/Base_30062025.xlsx\"\nDid you mean: \"Base\"\n\nLINE 3:         FROM read_xlsx('/Users/eurrutia/ecus_py/data/bases_cierres/Base_...\n                     ^"
+         }
+      }
+   },
+   "202507": {
+      "ok": true,
+      "archivo": "Base_31072025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 44544,
+            "mb": 6.45
+         },
+         "Castigo": {
+            "filas": 19946,
+            "mb": 2.7
+         },
+         "Venta": {
+            "error": "Binder Error: Sheet \"Venta\" not found in xlsx file \"/Users/eurrutia/ecus_py/data/bases_cierres/Base_31072025.xlsx\"\nDid you mean: \"Base\"\n\nLINE 3:         FROM read_xlsx('/Users/eurrutia/ecus_py/data/bases_cierres/Base_...\n                     ^"
+         }
+      }
+   },
+   "202508": {
+      "ok": true,
+      "archivo": "Base_31082025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 43550,
+            "mb": 6.32
+         },
+         "Castigo": {
+            "filas": 20340,
+            "mb": 2.76
+         },
+         "Venta": {
+            "filas": 12078,
+            "mb": 1.8
+         }
+      }
+   },
+   "202509": {
+      "ok": true,
+      "archivo": "Base_30092025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 42198,
+            "mb": 6.09
+         },
+         "Castigo": {
+            "filas": 20892,
+            "mb": 2.82
+         },
+         "Venta": {
+            "filas": 12078,
+            "mb": 1.8
+         }
+      }
+   },
+   "202510": {
+      "ok": true,
+      "archivo": "Base_31102025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 41341,
+            "mb": 6.04
+         },
+         "Castigo": {
+            "filas": 20837,
+            "mb": 2.82
+         },
+         "Venta": {
+            "error": "Binder Error: Sheet \"Venta\" not found in xlsx file \"/Users/eurrutia/ecus_py/data/bases_cierres/Base_31102025.xlsx\"\nDid you mean: \"Base\"\n\nLINE 3:         FROM read_xlsx('/Users/eurrutia/ecus_py/data/bases_cierres/Base_...\n                     ^"
+         }
+      }
+   },
+   "202511": {
+      "ok": false,
+      "archivo": "Base_30112025.xlsx",
+      "hojas": {
+         "Base": {
+            "error": "Binder Error: No shared strings found in xlsx file\n\nLINE 3:         FROM read_xlsx('/Users/eurrutia/ecus_py/data/bases_cierres/Base_...\n                     ^"
+         },
+         "Castigo": {
+            "error": "Binder Error: No shared strings found in xlsx file\n\nLINE 3:         FROM read_xlsx('/Users/eurrutia/ecus_py/data/bases_cierres/Base_...\n                     ^"
+         },
+         "Venta": {
+            "error": "Binder Error: No shared strings found in xlsx file\n\nLINE 3:         FROM read_xlsx('/Users/eurrutia/ecus_py/data/bases_cierres/Base_...\n                     ^"
+         }
+      }
+   },
+   "202512": {
+      "ok": true,
+      "archivo": "Base_31122025.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 38107,
+            "mb": 5.54
+         },
+         "Castigo": {
+            "filas": 22423,
+            "mb": 3.02
+         },
+         "Venta": {
+            "filas": 12067,
+            "mb": 1.8
+         }
+      }
+   },
+   "202601": {
+      "ok": true,
+      "archivo": "Base_31012026.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 37565,
+            "mb": 5.45
+         },
+         "Castigo": {
+            "filas": 22353,
+            "mb": 3.0
+         },
+         "Venta": {
+            "filas": 12066,
+            "mb": 1.8
+         }
+      }
+   },
+   "202602": {
+      "ok": true,
+      "archivo": "Base_28022026.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 37126,
+            "mb": 5.44
+         },
+         "Castigo": {
+            "filas": 22299,
+            "mb": 2.98
+         },
+         "Venta": {
+            "filas": 12065,
+            "mb": 1.8
+         }
+      }
+   },
+   "202603": {
+      "ok": true,
+      "archivo": "Base_31032026.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 36949,
+            "mb": 5.41
+         },
+         "Castigo": {
+            "filas": 22292,
+            "mb": 2.99
+         },
+         "Venta": {
+            "filas": 12065,
+            "mb": 1.8
+         }
+      }
+   },
+   "202604": {
+      "ok": true,
+      "archivo": "Base_30042026.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 36899,
+            "mb": 5.42
+         },
+         "Castigo": {
+            "filas": 22243,
+            "mb": 2.99
+         },
+         "Venta": {
+            "filas": 12062,
+            "mb": 1.8
+         }
+      }
+   },
+   "202605": {
+      "ok": true,
+      "archivo": "Base_31052026.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 36703,
+            "mb": 5.41
+         },
+         "Castigo": {
+            "filas": 22182,
+            "mb": 2.98
+         },
+         "Venta": {
+            "filas": 12059,
+            "mb": 1.8
+         }
+      }
+   },
+   "202606": {
+      "ok": true,
+      "archivo": "Base_30062026.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 36608,
+            "mb": 5.41
+         },
+         "Castigo": {
+            "filas": 22207,
+            "mb": 2.99
+         },
+         "Venta": {
+            "filas": 12059,
+            "mb": 1.8
+         }
+      }
+   },
+   "202607": {
+      "ok": true,
+      "archivo": "Base_31072026.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 36347,
+            "mb": 5.36
+         },
+         "Castigo": {
+            "filas": 22210,
+            "mb": 3.0
+         },
+         "Venta": {
+            "filas": 12055,
+            "mb": 1.8
+         }
+      }
+   },
+   "202608": {
+      "ok": true,
+      "archivo": "Base_31082026.xlsx",
+      "hojas": {
+         "Base": {
+            "filas": 36366,
+            "mb": 5.4
+         },
+         "Castigo": {
+            "filas": 22149,
+            "mb": 2.99
+         },
+         "Venta": {
+            "filas": 12052,
+            "mb": 1.8
+         }
+      }
+   }
+}
